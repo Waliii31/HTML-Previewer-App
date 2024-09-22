@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# HTML Previewer Application 🖥️✨
 
-## Getting Started
+Welcome to the **HTML Previewer Application**, part of my **30 Days 30 Projects Challenge**. This app allows users to input HTML code and instantly see the formatted output in a preview window, making it easier to test and visualize basic HTML syntax.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Code Input**: A textarea where users can input HTML code.
+- **Formatted HTML Preview**: Displays the live preview of the input HTML in real-time.
+- **Support for Basic HTML Syntax**: Users can experiment with various HTML tags and see the result instantly.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js**: A React framework for building full-stack web applications.
+- **React**: A JavaScript library for building dynamic user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for styling and responsive design.
+- **shadcn/ui**: Pre-designed Tailwind CSS components for a clean and modern UI.
+- **Vercel**: Used for deploying the Next.js web application, ensuring fast and reliable hosting.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Live Demo
 
-## Learn More
+Check out the live demo of the HTML Previewer Application on Vercel:
 
-To learn more about Next.js, take a look at the following resources:
+[Live Demo](https://html-previewer-app.vercel.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Screenshot
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![HTML-Previewer-App](https://github.com/user-attachments/assets/459eb6db-0729-437f-8c16-8fb0b1afa2dc)
